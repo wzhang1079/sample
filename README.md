@@ -1,3 +1,3 @@
 # sample
-<p>Most of the algorithms described in the class expects input as a vector. However, the reviews are natural language text of varying number of words. So the first step would be to convert this varying length movie review to a fixed length vector representation. We will consider vectorizing the natural language text into binary bag-of-words representation
+<p>Design of a sentiment classifier for classifying the sentiment of the reviews in IMDB dataset. This is a Natural Language Processing (NLP) task where the input is a natural language text and output is the sentiment label. We will consider vectorizing the natural language text into binary bag-of-words representation
 <p>We used the F1-measure as the evaluation metric. Using scikit-learn library in python, we trained Naive Bayes, Decision Trees, and Linear SVM for this task.
